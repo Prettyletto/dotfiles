@@ -1,0 +1,38 @@
+
+
+#ga
+alias ga="git add ."
+#gs
+alias gs="git status"
+#tl
+alias tl="tree"
+#ja
+alias ja="j allay"
+#wl
+alias wl="nvim ~/.wezterm.lua"
+#zr
+alias zr="nvim ~/.zshrc"
+#nc
+alias nc="nvim ~/.config/nvim/init.lua"
+#Just a way to quick exit a terminal
+alias ee="exit"
+#Open the aliases file
+alias za="nvim ~/.allyas_aliases"
+#turn off the computer
+alias pw="poweroff"
+#wh
+alias wh="which allyas"
+#echo
+alias hi="echo 'sadlajsdklasjk'"
+#al
+alias al="allyas"
+#reboot the computer
+alias re="reboot"
+#gmi
+alias gmi="go mod init"
+#sca
+alias sca="source /home/prettyletto/.allyas_aliases"
+#lf
+alias lf="ls -l -h"
+#py
+alias py="python"

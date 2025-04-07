@@ -1,0 +1,21 @@
+
+#ga
+alias ga="git add ."
+#gs
+alias gs="git status"
+#tl
+alias tl="tree"
+#ja
+alias ja="j allay"
+#wl
+alias wl="nvim ~/.wezterm.lua"
+#zr
+alias zr="nvim ~/.zshrc"
+#nc
+alias nc="nvim ~/.config/nvim/init.lua"
+#Just a way to quick exit a terminal
+alias ee="exit"
+#Open the aliases file
+alias za="nvim ~/.zshrc_aliases"
+#turn off the computer
+alias pw="poweroff"
