@@ -36,3 +36,11 @@ alias sca="source /home/prettyletto/.allyas_aliases"
 alias lf="ls -l -h"
 #py
 alias py="python"
+#dc
+alias dc="deactivate"
+#va
+alias va="source venv/bin/activate"
+#cll
+alias cll="celery -A lyfolhabackend worker --loglevel=INFO"
+#n
+alias n="nvim"
